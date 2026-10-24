@@ -1,1 +1,1 @@
-gravity = 0.1;
+gravity = 0.08;
