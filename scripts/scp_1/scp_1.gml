@@ -1,11 +1,12 @@
  #region Variaveis Globais
-global.dead = false
+global.play = false;
+global.dead = false;
 global.velocidadedead = 0;
 global.pontos = 0;
 global.level = 0;
 global.peixes = 0;
-global.posicao1 = [768, 96];
-global.posicao2 = [928, 288];
+global.posicaox = [768, 928];
+global.posicaoy = [96 , 288];
 
 #endregion
 
