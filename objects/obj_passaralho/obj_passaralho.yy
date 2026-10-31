@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_skin2",
-    "path":"sprites/spr_player_skin2/spr_player_skin2.yy",
+    "name":"spr_player_skin3",
+    "path":"sprites/spr_player_skin3/spr_player_skin3.yy",
   },
   "spriteMaskId":null,
   "visible":true,
